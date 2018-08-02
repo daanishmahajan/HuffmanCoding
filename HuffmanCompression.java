@@ -220,10 +220,4 @@ public class HuffmanCompression {
       FreqFile=new File(FileName[3]);
       Run();
     }
-    /*
-    G:\\coding\\project\\Files\\large_text.txt
-    G:\\coding\\project\\Files\\small_EncodeFile.txt
-    G:\\coding\\project\\Files\\small_DecodeFile.txt
-    G:\\coding\\project\\Files\\small_FreqFile.txt
-    */
 }
