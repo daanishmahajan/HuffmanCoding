@@ -223,10 +223,4 @@ public class HuffmanCompressionASCII {
       FreqFile=new File(FileName[3]);
       Run();
     }
-    /*
-    G:\\coding\\project\\Files\\small_text.txt
-    G:\\coding\\project\\Files\\upd_small_EncodeFile.txt
-    G:\\coding\\project\\Files\\small_DecodeFile.txt
-    G:\\coding\\project\\Files\\upd_small_FreqFile.txt
-    */
 }
